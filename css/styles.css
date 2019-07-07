@@ -125,8 +125,8 @@ color: white;
 }
 
 .podpis {
-  font-family: 'Wilderness Typeface';
-  font-size: 4.5rem;
+  font-family: 'Nothing You Could Do';
+  font-size: 3rem;
   max-height: 70px;
 }
 
@@ -214,7 +214,7 @@ color: white;
 .oferta-tekst {
   padding: 0 0 0;
   font-size: 8rem;
-  font-family: 'Wilderness Typeface';
+  font-family: 'Nothing You Could Do';
   text-align: left;
   color: black;
 }
@@ -286,7 +286,7 @@ background-color: #eeeeee;
 }
 
 .font-wild {
-  font-family: 'Wilderness Typeface';
+  font-family: 'Nothing You Could Do';
   font-size: 6rem;
 }
 
