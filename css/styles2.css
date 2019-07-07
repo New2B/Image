@@ -1,0 +1,400 @@
+body {
+  font-family: 'Montserrat';
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+
+h1 {
+
+  font-size: 2rem;
+  color: white;
+}
+
+hr {
+  height: 1px;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #d72323;
+}
+
+/* FONTS */
+
+.medium {
+  font-size: 1.5rem;
+}
+
+.small {
+    font-size: 1.4rem;
+}
+
+
+
+
+/* musi tak być bo inaczej jest strona się psuje */
+.row {
+  margin: 0;
+}
+
+.container-fluid {
+  padding-top: 2%;
+}
+
+/* PASEK-MENU */
+.pasek-menu {
+  padding: 2% 35% 0.5% 0;
+  background-color: white;
+
+}
+
+.logo-cennik {
+  display: block;
+  right: 2%;
+  position: absolute;
+  top: 0;
+  width: 40%;
+  height: 0;
+
+}
+
+.logo-image {
+  max-width: 70%;
+}
+
+.nav-link {
+  margin-top: 0;
+  padding: 0;
+  margin-right: 10px;
+}
+
+/* pasek po menu */
+.pasek-po-menu {
+  padding: 5% 0 1%;
+  background-color: white;
+  text-align: center;
+}
+
+.black {
+background-color: black;
+color: white;
+
+}
+
+.navbar-text {
+    display: inline-block;
+    padding-top: 3px;
+    padding-bottom: 0;
+}
+
+/* PASEK GŁÓWNY */
+.pasek-glowny {
+  background-color: #fff;
+  padding: 10% 10% 20%;
+  text-align: left;
+}
+
+.pasek-tekst1 {
+  margin-top: 5%;
+  margin-left: 40%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.girl {
+  border-radius: 1%;
+  position: absolute;
+  height: 600px;
+  left: 0;
+}
+
+.horizontal-line {
+  width: 475px;
+  text-align: left;
+  margin-left: 45px;
+}
+
+.podpis {
+  font-family: 'Wilderness Typeface';
+  font-size: 4.5rem;
+  max-height: 70px;
+}
+
+/* PAINT BRUSH STROKES */
+
+.glowny-stroke {
+  right: 2%;
+  margin-top: 3%;
+  margin-left: -5%;
+  position: absolute;
+  max-width: 80%;
+}
+
+.fryzjerstwo-stroke {
+  position: absolute;
+  right: 0;
+}
+
+.kosmetyka-stroke {
+  position: absolute;
+  right: 45%;
+  margin-top: 250px;
+}
+
+/* PROFESJONALNE USŁUGI */
+
+.profesjonalne-pasek {
+  padding: 2% 10% 2%;
+  margin: 0;
+  background-color: #eeeeee;
+}
+
+.profesjonalne-ikony2 {
+  height: 200px;
+  width: auto;
+  border-radius: 10%;
+}
+
+/* PASEK Godziny OTWARCIA */
+
+.krzeslo {
+  border-radius: 2%;
+  height: 95%;
+}
+
+.pasek-czynny {
+  padding: 4% 0 1%;
+}
+
+.pasek-czynny-lewy {
+  padding: 0 12% 3%;
+}
+
+.font-godziny {
+  font-family: 'Muli', sans-serif;
+  font-weight: 900;
+  font-size: 6rem;
+  line-height: 6rem;
+  letter-spacing: 1px;
+}
+
+.imagebok {
+  transform: rotate(90deg);
+  position: absolute;
+  height: 25%;
+  top: 475%;
+  left: -20%;
+}
+
+.imagebok2 {
+  transform: rotate(90deg);
+  position: absolute;
+  height: 22%;
+  top: 200%;
+  left: -24%;
+}
+
+/* PASEK fryzjestwo i kosmetyka */
+
+
+.oferta {
+  background-color: #eeeeee;
+  padding-bottom: 2%;
+}
+
+.oferta-tekst {
+  padding: 0 0 0;
+  font-size: 8rem;
+  font-family: 'Wilderness Typeface';
+  text-align: left;
+  color: black;
+}
+
+.prawo {
+  text-align: right;
+}
+
+.ikony {
+  height: 80px;
+  width: 80px;
+  margin: 5% 3% 0;
+}
+
+.booksy {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+/* PASEK KONTAKT */
+
+.kontakt {
+  background-color: #fff;
+  padding: 4% 10% 5%;
+}
+
+.zadzwon {
+  font-family: 'Muli', sans-serif;
+  font-weight: bold;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+}
+
+.anchor {
+  display: block;
+  height: 60px;
+  /*same height as header*/
+  margin-top: -60px;
+  /*same height as header*/
+  visibility: hidden;
+}
+
+.anchor2 {
+  display: block;
+  height: 40px;
+  /*same height as header*/
+  margin-top: -40px;
+  /*same height as header*/
+  visibility: hidden;
+}
+
+
+/* NASI PROFESJONALIŚCI */
+
+.container2 {
+background-color: #eeeeee;
+}
+
+.team {
+  background-color: #eeeeee;
+  padding: 0 3% 1% 10%;
+  font-size: 2rem;
+}
+
+.profilowe {
+  border-radius: 5%;
+  height: 200px;
+  width: auto;
+}
+
+.font-wild {
+  font-family: 'Wilderness Typeface';
+  font-size: 6rem;
+}
+
+.profilowe-kolumna {
+  padding: 0;
+  text-align: center;
+}
+
+.zespol {
+  text-align: right;
+}
+
+/* .arrow {
+  position: absolute;
+  left: 0;
+  max-width: 300px;
+  margin-bottom: 10%;
+  transform: rotate(20deg);
+} */
+
+/* MAPA */
+
+.adres {
+  padding: 4% 5% 2%;
+}
+
+/* STOPKA */
+.footer {
+  padding: 0 0 1%;
+}
+
+.facebook {
+  max-width: 30%;
+}
+
+.footer-tekst1 {
+  padding: 1% 0 2%;
+}
+
+.footer-tekst2 {
+  color: white;
+}
+
+/* SZCZEGOLY OFERTY */
+
+.modalowe {
+  text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* CENNIK */
+
+.stroke71 {
+  position: absolute;
+  width: 500px;
+  right: 13%;
+  top: 27%;
+}
+
+.cennik {
+  width: 70%;
+  margin: auto;
+  text-align: left;
+}
+
+.pasek-salon {
+  padding: 7% 0 2%;
+}
+
+.pasek-menu-cennik {
+  padding: 2% 4% 0.5% ;
+  background-color: white;
+}
+
+.logo-cennik2 {
+  left: 0;
+  display: block;
+  right: 2%;
+  position: absolute;
+  top: 0;
+  width: 40%;
+  height: 0;
+}
+/* MOBILNA OPTYMALIZACJA */
+@media only screen and (max-width: 880px) {
+  body {
+    font-family: 'Montserrat';
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: white;
+    color: black;
+  }
+}
+
+
+@media only screen and (min-width: 1600px) {
+  .arrow {
+    max-width: 400px;
+    margin-top: 0;
+  }
+}
